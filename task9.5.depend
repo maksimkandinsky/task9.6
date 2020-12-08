@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607261670 source:c:\users\Максим\desktop\task\task9\task9.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
